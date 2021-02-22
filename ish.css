@@ -1,0 +1,31 @@
+
+     body{   background-color: #60c2a9;}
+     h1{
+          color: rgb(199, 154, 98);
+     }
+     h3
+     {
+          color: rgb(155, 121, 77);
+     }
+     .broccoli{
+          background-color: coral;
+     } 
+     .broccoli:hover{
+          background-color: blueviolet;
+     }
+     .bottom-container{
+          background-color: rgb(38, 3, 71);
+          width: 200px;
+          height: 200px;
+     }
+     .middle-container{
+          background-color:crimson;
+          width: 200px;
+          height: 200px;
+     }
+     hr{border-color: blanchedalmond;
+     border-style: dotted;
+     border-width: 2px;
+     width: 25px;}
+        
+    
